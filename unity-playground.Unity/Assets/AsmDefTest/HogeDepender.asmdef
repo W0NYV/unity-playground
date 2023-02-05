@@ -1,0 +1,16 @@
+{
+    "name": "HogeDepender",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a7371cdd243def74f8236946af55c35a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
